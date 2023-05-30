@@ -1,5 +1,4 @@
-# intro_to_ds.R
-Practical Data Analytics Skills
+#Practical Data Analytics Skills
 
 This GIT repository hosts a valuable resource for acquiring practical data analytics skills. In today's data-driven world, employers seek professionals who can uncover 
 meaningful insights and patterns from vast amounts of data. Designed with user-friendliness in mind, this repository provides a comprehensive introduction to the 
